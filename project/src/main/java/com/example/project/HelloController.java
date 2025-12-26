@@ -31,3 +31,10 @@ public class HelloController {
         // later open SignIn page here
     }
 }
+
+//xatano2986@mekuron.com
+//Host: sql7.freesqldatabase.com
+//Database name: sql7812979
+//Database user: sql7812979
+//Database password: 8YPnh8ah8G
+//Port number: 3306
